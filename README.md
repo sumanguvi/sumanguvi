@@ -1,7 +1,5 @@
 ### Hi I'm Suman Kumar K 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m an Ex Software Engineer in Testing
 - 🔭 I had 7 Years Experience as a Software Test Analyst
 - 🔭 I’m currently trying to get back to Software Job Again as a programmer
