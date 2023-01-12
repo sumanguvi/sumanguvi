@@ -1,7 +1,7 @@
 ### Hi I'm Suman Kumar K 👋
 
 - 🔭 I’m an Ex Software Engineer in Testing
-- 🔭 I had 7 Years Experience as a Software Test Analyst
+- 🔭 I had 7 Years Experience as a Testing engineer and Software Test Analyst
 - 🔭 I’m currently trying to get back to Software Job Again as a programmer
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science Projects
