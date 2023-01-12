@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Data Science Projects
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me - suman910@gmal.com
+- 📫 How to reach me - suman910@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Even I had different good career options other than IT , I always try to get back to become a Software Engineer
 
