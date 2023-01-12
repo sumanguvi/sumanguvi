@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Data Science Projects
+- 🌱 Technical Skills - beginner level on HTML , CSS , Javascript , C Programming
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me - suman910@gmail.com
 - 😄 Pronouns: He/His
